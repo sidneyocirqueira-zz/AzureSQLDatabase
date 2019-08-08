@@ -1,4 +1,4 @@
-CREATE USER [usrAzureSQLMaintenance] WITH PASSWORD = 'PCsAH9EutTDmHZzp'
+CREATE USER [usrAzureSQLMaintenance] WITH PASSWORD = 'coloqueaquisuasenha'
 GO 
 GRANT EXEC ON SCHEMA::monitoramento TO [usrAzureSQLMaintenance]
 GO
