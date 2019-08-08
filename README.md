@@ -23,10 +23,10 @@ Repositório para adicionar scripts diversos para monitoramento, gerenciamento, 
  8. [Script Execução rotina de Estatisticas e Indices](https://github.com/sidneyocirqueira/AzureSQLDatabase/blob/master/src/Scripts/8%20-%20Script%20Execucao%20da%20Rotina.sql)
 
 ## Referências
- 1. [Monitorando o Tamanho das Tabelas](https://www.fabriciolima.net/blog/2018/10/02/azure-sql-database-monitorando-o-tamanho-das-tabelas/)
- 2. [Fragmentação de indices](https://www.fabriciolima.net/blog/2018/10/08/azure-sql-database-monitorando-a-fragmentacao-dos-indices/)
- 3. [AzureSQLMaintenance Customizada](https://github.com/FabricioLimaSolucoesEmBD/SQLScripts/blob/master/AzureSQLDatabase/AzureSQLMaintenance_Customizada.txt)
- 4. [Rotina original de Manutenção Azure SQL Indices e Estatisticas](https://techcommunity.microsoft.com/t5/Azure-Database-Support-Blog/How-to-maintain-Azure-SQL-Indexes-and-Statistics/ba-p/368787)
+ 1. [Monitorando o Tamanho das Tabelas - Fabricio Lima](https://www.fabriciolima.net/blog/2018/10/02/azure-sql-database-monitorando-o-tamanho-das-tabelas/)
+ 2. [Fragmentação de indices - Fabricio Lima](https://www.fabriciolima.net/blog/2018/10/08/azure-sql-database-monitorando-a-fragmentacao-dos-indices/)
+ 3. [AzureSQLMaintenance Customizada - Fabricio Lima](https://github.com/FabricioLimaSolucoesEmBD/SQLScripts/blob/master/AzureSQLDatabase/AzureSQLMaintenance_Customizada.txt)
+ 4. [Rotina original de Manutenção Azure SQL Indices e Estatisticas - Youchanan_MSFT](https://techcommunity.microsoft.com/t5/Azure-Database-Support-Blog/How-to-maintain-Azure-SQL-Indexes-and-Statistics/ba-p/368787)
 
 ## Contribuição
 Se você quiser contribuir, leia mais sobre tags markdown para editar o arquivo README, [Guia markdown](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops&viewFallbackFrom=vsts) 
