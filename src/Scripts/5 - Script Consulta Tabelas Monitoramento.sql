@@ -20,6 +20,7 @@
 	
 */
 
+/* Consulta que retorna statisticas das tabelas */
 
 /*
 	--Após criado os scripts, rodar a procedure para popular os dados. Essa procedure deve ser agendada no azure uma vez por dia.
