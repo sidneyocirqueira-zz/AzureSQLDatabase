@@ -54,8 +54,5 @@ WHERE OBJECTPROPERTY(o.object_id, N'IsMSShipped') = 0
 ORDER BY days_past DESC
 */
 
-exec [monitoramento].[AzureSQLMaintenance]  @operation = 'statistics',  @mode = 'smart', @LogToTable  = 0
-GO
-exec [monitoramento].[AzureSQLMaintenance]  @operation = 'index',  @mode = 'smart', @LogToTable  = 0
 
--- Tempo total de execução:
+
